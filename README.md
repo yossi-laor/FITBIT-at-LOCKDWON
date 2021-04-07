@@ -15,7 +15,7 @@ activity-heart-rate-plot -- plots the full heart rate for some interesting activ
 
 fitbit-sandbox -- tries a few methods to identify cycles in the activity heart rates
 
-best-activities -- not uploaded yet, will use the cycles to identify the 'best' activities
+best-activities -- tries to identify cycles in order to identify the 'best' activities
 
 
 
