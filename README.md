@@ -17,5 +17,10 @@ Interval-cycling -- tries to identify cycles in order to identify the 'best' act
 
 Sandbox -- tries a few methods to identify cycles in the activity heart rates
 
+In addition these are data files:
+
+Data.zip -- the original JSON files from Fitbit, read by the JSON-to-DF notebook
+PKL.zip -- the output of the JSON-to-DF notebook which is used as input by the other notebooks
+
 
 
