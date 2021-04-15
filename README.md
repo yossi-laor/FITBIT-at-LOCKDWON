@@ -18,5 +18,7 @@ In addition these are data files:
 Data.zip -- the original JSON files from Fitbit, read by the JSON-to-DF notebook
 PKL.zip -- the output of the JSON-to-DF notebook which is used as input by the other notebooks
 
-
+Data was accessed via the following:
+https://www.fitbit.com/settings/data/export
+under 'Export Your Account Archive'
 
