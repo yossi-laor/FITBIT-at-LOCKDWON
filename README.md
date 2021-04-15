@@ -1,9 +1,5 @@
 # FITBIT-at-LOCKDWON
-This little project is a result of the Covid-19 lockdown in the UK. 
-Swimming pools were shut down, so my favourite activity of swimming and timing laps is impossible. 
-As a substitute, I used the activity tracker Fitbit Inspire HR to time cycling and walking.
-The data is my heart-rate json files during this year. I find out that repeating short 
-cycling intervals is the most energetic type of activity, but that I didn't do it much. 
+Fitbit published analysis of behavioural changes through the lockdown -- less step count but more active minutes (see: https://blog.fitbit.com/lockdowns-lift-mobility-changes/). I am interested in my own data during the lockdown. As Swimming pools were shut down, my favourite activity of swimming and timing laps was impossible. As a substitute, I used Fitbit Inspire HR to time my activities. I bought this  activity tracker early April 2020 and I have now data for 365 days. I use the heart-rate json files to find out that I used the tracker 329 days, and did 412 activities of walking, cycling or workout. The most energetic ones were cycling intervals, but I didn't do this type of activity very often. These files may be useful for other Fitbit users and I am happy to get comments, questions, etc.  
 
 The Jupyter notebooks are as follows:
 
