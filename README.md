@@ -9,9 +9,9 @@ Summary-plot -- plots some of the summary statistics of the activities
 
 Heartrate-plot -- plots the full heart rate for some interesting activities
 
-Interval-cycling -- tries to identify cycles in order to identify the 'best' activities; work in progress
+Interval-cycling -- analyses activities that include short cycles or intervals
 
-Sandbox -- tries a few methods to identify cycles in the activity heart rates
+Sandbox -- tries a few frequency-domain methods to identify cycles or intervals
 
 These are data files:
 
