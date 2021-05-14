@@ -13,6 +13,8 @@ Interval-cycling -- analyses activities that include short cycles or intervals
 
 Sandbox -- tries a few frequency-domain methods to identify cycles or intervals
 
+Swimming-HR -- is a post-lockdown file collecting heartrate data while swimming 
+
 These are data files:
 
 
@@ -21,4 +23,5 @@ Data.zip -- the original JSON files from Fitbit, read by the JSON-to-DF notebook
 PKL.zip -- the output of the JSON-to-DF notebook which is used as input by the other notebooks
 
 Data was accessed via: https://www.fitbit.com/settings/data/export under 'Export Your Account Archive'
+and through the Fitbit Web API for the Swimming-HR file
 
