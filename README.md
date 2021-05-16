@@ -13,7 +13,7 @@ Interval-cycling -- analyses activities that include short cycles or intervals
 
 Sandbox -- tries a few frequency-domain methods to identify cycles or intervals
 
-Swimming-HR -- is a post-lockdown file collecting heartrate data while swimming 
+Swimming-HR -- a post-lockdown file plotting heart-rate during interval swimming 
 
 These are data files:
 
